@@ -9,3 +9,6 @@ Example:
   Given x = 6, y = 11, k = 2 the function should return 3, 
   because there are three numbers divisible by 2 between 6 and 11: 6, 8, 10.
 */
+
+
+// Solutions
