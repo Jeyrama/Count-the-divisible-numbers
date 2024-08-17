@@ -18,3 +18,5 @@ function divisibleCount(x, y, k) {
   while (y%k!=0) y--;
   return 1+Math.round((y-x)/k)
 }
+
+// or
